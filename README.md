@@ -10,7 +10,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaal1&theme=tokyonight" alt="hamzaal1" /></p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img align="right" src="https://www.techstylitix.me/images/hero-section-avatar.svg" />
+<img align="right" width="450" src="https://www.techstylitix.me/images/hero-section-avatar.svg" />
 - 🔭 I’m currently working on **E-Education-101**
   
 - 🌱 I’m currently learning **VueJs & React Native**

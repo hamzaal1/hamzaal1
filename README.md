@@ -1,5 +1,3 @@
-
-<img heigth="30" src="https://scontent.frba2-1.fna.fbcdn.net/v/t39.30808-6/358081174_591700433115097_5109568721407108267_n.png?_nc_cat=104&cb=99be929b-59f725be&ccb=1-7&_nc_sid=e3f864&_nc_ohc=ItGgMl6pWv0AX8fax_e&_nc_ht=scontent.frba2-1.fna&oh=00_AfDslV8xu69b7aktz66DCVBP2wTnZxZLS01tX9F-BF6eVg&oe=64AEC577" />
 <h1 align="center">Hi 👋, I'm Hamza Demnani</h1>
 <h3 align="center">Web Developer FullStack</h3>
 

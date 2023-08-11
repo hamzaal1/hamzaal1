@@ -10,7 +10,6 @@
 <img align="right" width="450" src="https://www.techstylitix.me/images/hero-section-avatar.svg" />
 - 🔭 I’m currently working on **E-Education-101**
   
-- 🌱 I’m currently learning **VueJs & React Native**
 
 - 👯 I’m looking to collaborate on **open source projects**
 

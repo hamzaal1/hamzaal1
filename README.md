@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer FullStack</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzaal1&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="hamzaal1" /></p>
-
+ 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzaal1&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="hamzaal1" /></p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>

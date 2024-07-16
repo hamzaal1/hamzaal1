@@ -8,7 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img align="right" width="450" src="https://www.techstylitix.me/images/hero-section-avatar.svg" />
 - 🔭 I’m currently working on **E-Education-101**
    
 

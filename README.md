@@ -13,8 +13,6 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 🤝 I’m looking for help with **any kind of projects**
-
 - 👨‍💻 All of my projects are available at [www.techstylitix.me](www.techstylitix.me)
 
 - 📝 I regularly write articles on [www.techstylitix.me](www.techstylitix.me)

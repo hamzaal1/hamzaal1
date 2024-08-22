@@ -5,6 +5,8 @@
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzaal1&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="hamzaal1" /></p>
  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzaal1&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="hamzaal1" /></p>
+![Hamza Demnani GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzaal1&show_icons=true&theme=transparent)
+
 
 
 - 🔭 I’m currently working on **E-Education-101**
